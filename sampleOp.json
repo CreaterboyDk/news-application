@@ -1,0 +1,267 @@
+
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "WYFF4 Greenville"
+        },
+        "author": null,
+        "title": "Hurricane Ian track shows new South Carolina landfall location, timing - WYFF4 Greenville",
+        "description": "The last track of Hurricane Ian showed the storm making landfall Friday near Georgetown.",
+        "url": "https://www.wyff4.com/article/hurricane-ian-south-carolina-landfall-expected/41458260",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dynamic/wyff/HurricaneStats.jpg?crop=1.00xw:1.00xh;0,0&t=2022-09-30T10:02:06.302739Z&resize=1200:*",
+        "publishedAt": "2022-09-30T09:37:00Z",
+        "content": "GREENVILLE, S.C. —(On this page, you will find the latest on where Ian is, what we can expect in our area, the latest track, radar, \"spaghetti\" models, hurricane alerts, storm surge alerts, tropical … [+2011 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Russian spy chief: West was behind sabotage of Nord Stream - Reuters",
+        "description": "Russia's top spy said on Friday that Moscow had intelligence indicating that the West was behind what he said was a \"terrorist act\" against the Nord Stream gas pipelines under the Baltic Sea.",
+        "url": "https://www.reuters.com/world/europe/russias-spy-chief-says-moscow-has-evidence-west-behind-sabotage-nord-stream-2022-09-30/",
+        "urlToImage": "https://www.reuters.com/resizer/5bi5-ZZJdRm-TvQxwpsj5xjzgzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HSEPGBUGOJMRPC4PGTG5AQ43KM.jpg",
+        "publishedAt": "2022-09-30T09:29:00Z",
+        "content": "TBILISI/LONDON, Sept 30 (Reuters) - Russia's top spy said on Friday that Moscow had intelligence indicating that the West was behind what he said was a \"terrorist act\" against the Nord Stream gas pip… [+2427 chars]"
+      },
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "author": "Maroosha Muzaffar",
+        "title": "Hurricane Ian – live: Biden declares South Carolina state of emergency as storm regains strength - The Independent",
+        "description": "Hurricane Ian tracker and news as storm heads to Carolina",
+        "url": "https://www.independent.co.uk/climate-change/news/hurricane-ian-fatalities-aftermath-storm-warning-latest-b2181381.html",
+        "urlToImage": "https://static.independent.co.uk/2022/09/29/17/SEI127388508.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2022-09-30T08:01:00Z",
+        "content": "After spending most of Thursday as a tropical storm, Ian has now been upgraded to a hurricane again as it takes aim at the South Carolina coastline.\r\nPresident Joe Biden has issued an emergency decla… [+6523 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KABC-TV"
+        },
+        "author": null,
+        "title": "Hurricane Ian updates: Storm upgrades to Category 1; Florida sees deaths, damage as South Carolina braces for landfall - KABC-TV",
+        "description": "\"The numbers we have are still unclear, but we're hearing early reports of what may be substantial loss of life,\" Biden said.",
+        "url": "https://abc7.com/hurricane-ian-florida-tracker-warning-orlando-weather/12278131/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/12279067_092922-cc-ap-hurricane-ian-ft-myers-img.jpeg?w=1600",
+        "publishedAt": "2022-09-30T07:46:30Z",
+        "content": "ST. PETERSBURG, Florida -- Rescue crews piloted boats and waded through inundated streets Thursday to save thousands of Floridians trapped amid flooded homes and shattered buildings left by Hurricane… [+7143 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "China's factory, services surveys suggest economy struggling to rebound - Reuters",
+        "description": "China's factory activity eked out growth in September, but a slowdown in services sector growth and a downbeat private manufacturing survey pointed to further cooling as the economy grapples with COVID-19 curbs and softening global demand.",
+        "url": "https://www.reuters.com/markets/europe/chinas-factory-activity-unexpectedly-returns-growth-sept-2022-09-30/",
+        "urlToImage": "https://www.reuters.com/resizer/ihZH5_Cn2AM13OmCcaP-SLzTn9w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NQTIQ6MWFNOARD4EU4JYOTWMCY.jpg",
+        "publishedAt": "2022-09-30T06:12:00Z",
+        "content": "BEIJING, Sept 30 (Reuters) - China's factory activity eked out growth in September, but a slowdown in services sector growth and a downbeat private manufacturing survey pointed to further cooling as … [+4133 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KABC-TV"
+        },
+        "author": null,
+        "title": "Former Dallas Cowboy Gavin Escobar killed in hiking fall near Idyllwild - KABC-TV",
+        "description": "A former tight end for the Dallas Cowboys was one of two hikers killed trying to scale a mountainside east of Idyllwild, authorities said Thursday.",
+        "url": "https://abc7.com/gavin-escobar-hiking-accident-idyllwild-chelsea-walsh/12280988/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/12280989_escobar.jpg?w=1600",
+        "publishedAt": "2022-09-30T04:30:38Z",
+        "content": "IDYLLWILD, Calif. (CNS) -- A former tight end for the Dallas Cowboys was one of two hikers killed trying to scale a mountainside east of Idyllwild, authorities said Thursday.\r\nGavin Escobar, 31, and … [+1424 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Putin to host Kremlin ceremony annexing parts of Ukraine - Reuters",
+        "description": "Russian President Vladimir Putin was set to host a ceremony on Friday for the annexation of four Ukrainian regions, while his Ukrainian counterpart said Putin would have to be stopped if Russia was to avoid the most damaging consequences of the war.",
+        "url": "https://www.reuters.com/world/putin-host-kremlin-ceremony-annexing-parts-ukraine-2022-09-29/",
+        "urlToImage": "https://www.reuters.com/resizer/DI_sDgfLi7r_lqmnvtjKx5c1gew=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UO7WSK625KU3N65HDE442D4WY.jpg",
+        "publishedAt": "2022-09-30T03:43:00Z",
+        "content": "Sept 30 (Reuters) - Russian President Vladimir Putin was set to host a ceremony on Friday for the annexation of four Ukrainian regions, while his Ukrainian counterpart said Putin would have to be sto… [+4785 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Reuters, Anna Cooban",
+        "title": "Germany will borrow nearly $200 billion to cap consumers' energy bills - CNN",
+        "description": "The German government announced plans to borrow €200 billion ($195 billion) to cap natural gas prices for households and businesses. That's a bigger price tag than the £150 billion ($165 billion) the UK government is expected to borrow to finance its own pric…",
+        "url": "https://www.cnn.com/2022/09/29/energy/germany-200-billion-debt-energy-cap/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220929105623-02-germany-gas-electricity-prices.jpg?q=w_800,c_fill",
+        "publishedAt": "2022-09-30T03:34:00Z",
+        "content": "The German government announced plans to borrow 200 billion ($195 billion) to cap natural gasprices for households and businesses. Thats a bigger price tag than the £150 billion ($165 billion) the UK… [+2996 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Miami Dolphins vs. Cincinnati Bengals | Week 4 2022 Game Highlights - NFL",
+        "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+        "url": "https://www.youtube.com/watch?v=OQSBtvsm8Ro",
+        "urlToImage": "https://i.ytimg.com/vi/OQSBtvsm8Ro/hqdefault.jpg",
+        "publishedAt": "2022-09-30T03:32:15Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Taylor Romine",
+        "title": "Trevor Noah is leaving 'The Daily Show' - CNN",
+        "description": "\"The Daily Show\" host Trevor Noah has announced he will step away from the anchor desk.",
+        "url": "https://www.cnn.com/2022/09/29/entertainment/trevor-noah-daily-show/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220929223222-02-trevor-noah-file.jpg?q=w_800,c_fill",
+        "publishedAt": "2022-09-30T03:14:00Z",
+        "content": "The Daily Show host Trevor Noah has announced he will step away from the anchor desk.\r\nIn a video statement shared on Twitter Thursday, Noah said that after seven years as host of the Comedy Central … [+1784 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Amy Simonson, Christina Maxouris, Paul P. Murphy, Rebekah Riess, Dakin Andone",
+        "title": "At least 2 dead on Sanibel Island, which is cut off from Florida's mainland after Ian's storm surge severs causeway - CNN",
+        "description": "Hurricane Ian has left at least two people dead on Sanibel Island and ripped away several parts of the causeway that was the island's only access to Florida's mainland.",
+        "url": "https://www.cnn.com/2022/09/29/us/sanibel-causeway-bridge-florida-hurricane-ian/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220929094435-01b-hurricane-ian-sanibel-0929.jpg?q=w_800,c_fill",
+        "publishedAt": "2022-09-30T01:53:00Z",
+        "content": "Hurricane Ian has left at least two people dead on Sanibel Island and ripped away several parts of the causeway that was the islands only access to Floridas mainland.\r\nOn Thursday night, dozens of pe… [+4365 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Kali Hays, Grace Kay",
+        "title": "Elon Musk vs. Twitter: See all the juiciest billionaire private texts - Business Insider",
+        "description": "A trove of private messages between Elon Musk and notable figures in business and tech is part of Twitter's ongoing lawsuit against the billionaire.",
+        "url": "https://www.businessinsider.com/elon-musk-twitter-private-texts-jack-dorsey-larry-ellison-rogan-2022-9",
+        "urlToImage": "https://i.insider.com/62ab2d108eacc300192df60b?width=1200&format=jpeg",
+        "publishedAt": "2022-09-30T01:51:21Z",
+        "content": "Elon Musk's smartphone has been bombarded by billionaires, executives, bankers, and other notable figures from tech, finance, and media, all hoping to get a piece of his wild and wayward $44 billion … [+14888 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "AFP",
+        "title": "Hubble And Webb Pics Reveal DART Impact Was Even Bigger Than Expected - ScienceAlert",
+        "description": "The James Webb and Hubble telescopes on Thursday revealed their first images of a spacecraft deliberately smashing into an asteroid, as astronomers indicated that the impact looks to have been much greater than expected.",
+        "url": "https://www.sciencealert.com/hubble-and-webb-pics-reveal-dart-impact-was-even-bigger-than-expected",
+        "urlToImage": "https://www.sciencealert.com/images/2022/09/HubbleAndJWSTPhotosOfDARTImpacts.jpg",
+        "publishedAt": "2022-09-30T01:36:46Z",
+        "content": "The James Webb and Hubble telescopes on Thursday revealed their first images of a spacecraft deliberately smashing into an asteroid, as astronomers indicated that the impact looks to have been much g… [+4315 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Mike Wall",
+        "title": "SpaceX, NASA look at launching Dragon to service Hubble Space Telescope - Space.com",
+        "description": "SpaceX and NASA will conduct a six-month feasibility study that looks at all the options.",
+        "url": "https://www.space.com/nasa-spacex-possible-dragon-mission-hubble-space-telescope",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/hwnPb9ZAZPdcxXWsg9oyWL-1200-80.png",
+        "publishedAt": "2022-09-30T01:13:09Z",
+        "content": "Astronauts could visit the Hubble Space Telescope again someday, this time on a private spacecraft.\r\nHubble\r\n launched to Earth orbit in April 1990 and received five sets of visitors over the next tw… [+4951 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Brett Favre And The Mississippi Welfare Scandal Explained | The Katie Phang Show - MSNBC",
+        "description": "Brett Favre has been implicated in a welfare fraud scandal in Mississippi. Front Office Sport’ AJ Perez has been following the story and joins Katie Phang to...",
+        "url": "https://www.youtube.com/watch?v=GEio4IXh_No",
+        "urlToImage": "https://i.ytimg.com/vi/GEio4IXh_No/hqdefault.jpg",
+        "publishedAt": "2022-09-30T00:45:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Katie Lobosco",
+        "title": "Biden administration scales back student loan forgiveness plan as states sue - CNN",
+        "description": "The Biden administration scaled back eligibility for its student loan forgiveness plan Thursday, the same day six Republican-led states sued President Joe Biden in an effort to block his student loan forgiveness plan from taking effect.",
+        "url": "https://www.cnn.com/2022/09/29/politics/biden-student-loan-forgiveness-plan-lawsuit/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220304145143-us-college-students-entrepreneurship-file.jpg?q=w_800,c_fill",
+        "publishedAt": "2022-09-30T00:24:00Z",
+        "content": "The Biden administration scaled back eligibility for its student loan forgiveness plan Thursday, the same day six Republican-led states sued President Joe Biden in an effort to block his student loan… [+8634 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Max Weisman",
+        "title": "Steve Cohen is hyped for Mets-Braves: 'Doesn't get any better than this' - New York Post ",
+        "description": "The Mets and Braves begin a massive three-game series in Atlanta on Friday and Mets owner Steve Cohen can’t wait.",
+        "url": "https://nypost.com/2022/09/29/steve-cohen-pumped-for-pivotal-mets-braves-series/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/steve-cohen-mets-braves-series.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2022-09-30T00:13:00Z",
+        "content": "The New York Mets and Atlanta Braves begin a massive three-game series in Atlanta on Friday and Mets owner Steve Cohen can’t wait.\r\n“I just landed in Atlanta and Im pumped for the weekend series agai… [+1713 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Google Shutting Down Stadia, Refunding Users - IGN Daily Fix - IGN",
+        "description": "On today’s IGN The Daily Fix:,In a new blog, the search engine company, Google, revealed that Stadia \"hasn't gained the traction with users that we expected,...",
+        "url": "https://www.youtube.com/watch?v=Y5xRkIgX6lc",
+        "urlToImage": "https://i.ytimg.com/vi/Y5xRkIgX6lc/maxresdefault.jpg",
+        "publishedAt": "2022-09-29T23:58:54Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Tom Tapp",
+        "title": "Universal Resort Orlando Flooded, Jurassic Park Ride Damaged By Hurricane Ian; Phased Reopening To Begin Friday - Deadline",
+        "description": "Hurricane Ian unleashed 14 inches of rain and winds up to 60 mph in Orlando on Wednesday night and this morning the damage from that onslaught was clear at Universal Resort Orlando. News reports and photos posted to social media showed many areas of the park …",
+        "url": "https://deadline.com/2022/09/universal-resort-orlando-flooded-jurassic-park-ride-damaged-reopening-friday-1235131169/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2022/01/Universal-Studios-Orlando-1.jpg?w=660",
+        "publishedAt": "2022-09-29T23:06:00Z",
+        "content": "Hurricane Ian unleashed 14 inches of rain and winds up to 60 mph in Orlando on Wednesday night and this morning the damage from that onslaught was clear at Universal Resort Orlando.\r\nNews reports and… [+962 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Jacqueline Alemany",
+        "title": "Ginni Thomas told January 6 committee election was stolen, chairman Bennie Thompson says - The Washington Post",
+        "description": "During a nearly five-hour interview with the committee investigating the insurrection at the Capitol, the conservative activist reiterated the debunked claims of election fraud, according to Chairman Bennie G. Thompson (D-Miss.).",
+        "url": "https://www.washingtonpost.com/politics/2022/09/29/ginni-thomas-jan6-election/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QMGYYBCAFAI63DDOSODL27GYEY.jpg&w=1440",
+        "publishedAt": "2022-09-29T22:41:11Z",
+        "content": "Virginia Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, reiterated her belief that the 2020 election was stolen during her interview Thursday with the committee investigating the Ja… [+1800 chars]"
+      }
+    ]
+  }
